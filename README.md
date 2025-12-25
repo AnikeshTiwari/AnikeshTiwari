@@ -1,16 +1,164 @@
-## Hi there 👋
+![Anikesh | Full Stack Developer](banner1.png)
+<h1 align="center">Hi 👋, I'm <br/>Anikesh Tiwari</h1>
+<h3 align="center">Full Stack Developer | Information Science and Engineering</h3>
+ 
+ 
+<p align="center">
 
-<!--
-**AnikeshTiwari/AnikeshTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ✨ Learning full-stack development <br/>
 
-Here are some ideas to get you started:
+  📚 Exploring Node.js & Backend Systems <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🎯 Interested in real-world software projects
+</p>
+ 
+<hr/>
+ 
+<!-- ===================== ABOUT ME ===================== -->
+<h2 align="left">About Me</h2>
+ 
+<p align="left">
+
+🚀 Final-year Information Science and engineering student <br/>
+
+💻 Actively working on Frontend projects <br/>
+
+🧠 Passionate about building scalable, real-world applications
+</p>
+ 
+<hr/>
+ 
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="left">Tech Stack & Tools</h2>
+ 
+<!-- Frontend -->
+<h4 align="left">Frontend</h4>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+</div>
+ 
+<br/>
+ 
+<!-- Backend -->
+<h4 align="left">Backend</h4>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</div>
+ 
+<p align="left">
+
+🔹 RESTful APIs &nbsp;&nbsp; 🔹 JWT Authentication &nbsp;&nbsp; 🔹 MVC Architecture
+</p>
+ 
+<br/>
+ 
+<!-- Databases -->
+<h4 align="left">Databases</h4>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</div>
+ 
+<br/>
+ 
+<!-- Tools -->
+<h4 align="left">Tools</h4>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+</div>
+ 
+<br/>
+ 
+<!-- Deployment -->
+<h4 align="left">Deployment & Version Control</h4>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40"/>
+</div>
+ 
+<hr/>
+ 
+<!-- ===================== CONTACT ===================== -->
+<h2 align="left">How to Reach Me</h2>
+ 
+<div align="left">
+<a href="https://www.linkedin.com/in/anikesh-tiwari-35a592217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+</a>
+<img width="16"/>
+ 
+  <a href="mailto:sparkle.anikesh01@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+</a>
+<img width="16"/>
+ 
+ 
+
+ 
+  <a href="https://anikeshtiwari.github.io/Anikesh-Portfolio/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40"/>
+</a>
+</div>
+ 
+<hr/>
+ 
+<!-- ===================== STATS ===================== -->
+<!-- <h2 align="left">GitHub Stats</h2>
+ 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight%22/>
+</p>
+ 
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight"/>
+</p>
+ 
+<hr/> -->
+ 
+<!-- ===================== LEARNING ===================== -->
+<h2 align="left">Currently Learning</h2>
+ 
+<ul>
+<li>Advanced Node.js & Backend Architecture</li>
+<li>System Design Fundamentals</li>
+<li>AI & Machine Learning Basics</li>
+</ul>
+ 
+<hr/>
+ 
+<!-- ===================== COLLAB ===================== -->
+<h2 align="left">Open to Collaborate</h2>
+ 
+<p align="left">
+
+🤝 Open to open-source and real-world project collaborations <br/>
+
+📬 Feel free to reach out for teamwork and learning opportunities
+</p>
+ 

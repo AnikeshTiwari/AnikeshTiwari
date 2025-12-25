@@ -1,4 +1,4 @@
-![Anikesh | Full Stack Developer](banner1.png)
+![Anikesh | Full Stack Developer](banner1.jpeg)
 <h1 align="center">Hi 👋, I'm <br/>Anikesh Tiwari</h1>
 <h3 align="center">Full Stack Developer | Information Science and Engineering</h3>
  

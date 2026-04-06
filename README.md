@@ -1,5 +1,4 @@
 ![Anikesh | Full Stack Developer](banner1.jpeg)
-## 🐍 Contribution Snake
 
 <h1 align="center">Hi 👋, I'm <br/>Anikesh Tiwari</h1>
 <h3 align="center">Full Stack Developer | Information Science Engineering Student</h3>
@@ -20,6 +19,7 @@
 </p>
 
 <p align="center">
+ ## 🐍 Contribution Snake
   <img src="https://raw.githubusercontent.com/AnikeshTiwari/AnikeshTiwari/output/github-contribution-grid-snake-dark.svg" />
 </p>
 

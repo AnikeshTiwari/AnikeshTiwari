@@ -1,9 +1,8 @@
 ![Anikesh | Full Stack Developer](banner1.jpeg)
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/AnikeshTiwari/AnikeshTiwari/output/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hi 👋, I'm <br/>Anikesh Tiwari</h1>
-<h3 align="center">Full Stack Developer | Information Science and Engineering</h3>
+<h3 align="center">Full Stack Developer | Information Science Engineering Student</h3>
  
  
 <p align="center">
@@ -14,25 +13,72 @@
 
   🎯 Interested in real-world software projects
 </p>
- 
-<hr/>
- 
-<!-- ===================== ABOUT ME ===================== -->
-<h2 align="left">About Me</h2>
- 
-<p align="left">
 
-🚀 Final-year Information Science and engineering student <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnikeshTiwari&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnikeshTiwari&theme=tokyonight" />
+</p>
 
-💻 Actively working on Frontend projects <br/>
-
-🧠 Passionate about building scalable, real-world applications
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnikeshTiwari/AnikeshTiwari/output/github-contribution-grid-snake-dark.svg" />
 </p>
  
 <hr/>
  
+<!-- ===================== ABOUT ME ===================== -->
+<h2 align="left">👨‍💻 About Me</h2>
+ 
+<p align="left">
+
+🚀 Final-year Information Science Engineering student <br/>
+
+💻 Full Stack Developer with hands-on experience in real-world projects <br/>
+
+🧠 Skilled in PHP, JavaScript, Python, and modern web technologies  <br/>
+
+⚡ Focused on building scalable, efficient, and user-friendly applications
+</p>
+ 
+<hr/>
+<h2 align="left">⚡ Core Skills</h2>
+
+<p>
+✔️ Full Stack Web Development <br/>
+✔️ REST API Development <br/>
+✔️ Backend Development (Node.js, PHP) <br/>
+✔️ Frontend Development (React, JavaScript, Tailwind CSS) <br/>
+✔️ Database Design (MySQL, MongoDB) <br/>
+✔️ Authentication & Security (JWT)
+</p>
+
+<hr/>
+
+<hr/>
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+<ul>
+
+<li>
+<strong>🌐 Portfolio Website</strong><br/>
+🔹 Personal portfolio showcasing projects and skills<br/>
+🔹 Tech: HTML, CSS, JavaScript<br/>
+🔹 <a href="https://anikeshtiwari.github.io/Anikesh-Portfolio/">Live Demo</a>
+</li>
+
+<br/>
+
+<li>
+<strong>💻 Full Stack App (Add your project)</strong><br/>
+🔹 Authentication system + API + database<br/>
+🔹 Tech: Node.js, Express, MongoDB<br/>
+🔹 <a href="#">GitHub Repo</a>
+</li>
+
+</ul>
+ 
 <!-- ===================== TECH STACK ===================== -->
-<h2 align="left">Tech Stack & Tools</h2>
+<h2 align="left">🛠️ Tech Stack & Tools</h2>
  
 <!-- Frontend -->
 <h4 align="left">Frontend</h4>
@@ -108,7 +154,7 @@
 <hr/>
  
 <!-- ===================== CONTACT ===================== -->
-<h2 align="left">How to Reach Me</h2>
+<h2 align="left">📫 Contact Me</h2>
  
 <div align="left">
 <a href="https://www.linkedin.com/in/anikesh-tiwari-35a592217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -130,22 +176,8 @@
 </div>
  
 <hr/>
- 
-<!-- ===================== STATS ===================== -->
-<!-- <h2 align="left">GitHub Stats</h2>
- 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=knitinnn&show_icons=true&theme=tokyonight%22/>
-</p>
- 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=knitinnn&theme=tokyonight"/>
-</p>
- 
-<hr/> -->
- 
-<!-- ===================== LEARNING ===================== -->
-<h2 align="left">Currently Learning</h2>
+
+<h2 align="left">📚 Currently Learning</h2>
  
 <ul>
 <li>Advanced Node.js & Backend Architecture</li>
@@ -156,7 +188,7 @@
 <hr/>
  
 <!-- ===================== COLLAB ===================== -->
-<h2 align="left">Open to Collaborate</h2>
+<h2 align="left">🤝 Open to Collaborate</h2>
  
 <p align="left">
 

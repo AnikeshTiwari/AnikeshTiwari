@@ -26,7 +26,7 @@
 <p align="left">
 🎓 Final-year B.E. Information Science & Engineering student at Brindavan Group of Institutions, VTU (CGPA: 7.50)<br/>
 💻 Full Stack Developer with 2+ years of cross-company experience across 4 organisations<br/>
-🤖 Currently engineering prompt architectures for production LLM pipelines at LearnersByte<br/>
+💻 Currently developing end-to-end full-stack web solutions at Catchysystem Technologies Pvt. Ltd., spanning backend architecture, APIs, databases, and frontend interfaces<br/>
 ⚙️ Proficient across the full stack — Laravel, PHP, MySQL on backend; JavaScript, HTML5, CSS3 on frontend<br/>
 📊 Track record of measurable impact: cut DB latency by 25%, reduced manual workflows by 40%, lifted engagement by 20%<br/>
 🧠 Operating at the intersection of UI engineering and AI/ML tooling

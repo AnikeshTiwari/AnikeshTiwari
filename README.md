@@ -38,7 +38,6 @@
 <h2 align="left">💼 Work Experience</h2>
 
 <table>
-<tr><td colspan="3"><br/></td></tr>
 <tr>
 <td><strong>🖥️ Full Stack Developer</strong></td>
 <td><strong>CatchySystem, Surat</strong></td>
@@ -66,6 +65,7 @@
 &nbsp;&nbsp;▶ Maintain prompt-strategy knowledge base and performance benchmark dashboards
 </td>
 </tr>
+<tr><td colspan="3"><br/></td></tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
 <td><strong>🌐 Web Development Intern</strong></td>

@@ -72,7 +72,7 @@
 <tr><td colspan="3"><br/></td></tr>
 
 <tr>
-<td><strong>🌐 Web Development Intern</strong></td>
+<td><strong>🌐 Web Developer </strong></td>
 <td><strong>Touches Computer, Surat</strong></td>
 <td>Dec 2023 – Feb 2024</td>
 </tr>
@@ -88,7 +88,7 @@
 <tr><td colspan="3"><br/></td></tr>
 
 <tr>
-<td><strong>⚙️ Software Development Intern</strong></td>
+<td><strong>⚙️ Software Developer Intern</strong></td>
 <td><strong>Suvya Web, Surat</strong></td>
 <td>Sep 2023 – Nov 2023</td>
 </tr>

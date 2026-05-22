@@ -41,7 +41,7 @@
 
 <tr>
 <td><strong>🖥️ Full Stack Developer</strong></td>
-<td><strong>CatchySystem, Surat</strong></td>
+<td><strong>Catchysystem Technologies Pvt. Ltd., Surat</strong></td>
 <td>July 2025 – Present</td>
 </tr>
 <tr>

@@ -38,19 +38,6 @@
 <h2 align="left">💼 Work Experience</h2>
 
 <table>
-<tr>
-<td><strong>🤖 AI/ML Prompt Engineering Intern</strong></td>
-<td><strong>LearnersByte, Hyderabad</strong></td>
-<td>Jan 2026 – Present</td>
-</tr>
-<tr>
-<td colspan="3">
-&nbsp;&nbsp;▶ Engineer prompt architectures for production LLM pipelines across 3 NLP-based applications<br/>
-&nbsp;&nbsp;▶ Design A/B prompt experiments across 10+ model configurations to drive iterative performance gains<br/>
-&nbsp;&nbsp;▶ Integrate AI outputs into web interfaces with a 4-person frontend team, cutting curation time by ~30%<br/>
-&nbsp;&nbsp;▶ Maintain prompt-strategy knowledge base and performance benchmark dashboards
-</td>
-</tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
 <td><strong>🖥️ Full Stack Developer</strong></td>
@@ -63,6 +50,20 @@
 &nbsp;&nbsp;▶ Design and expose RESTful API endpoints, reducing average API response time by ~18%<br/>
 &nbsp;&nbsp;▶ Architected a reusable Blade component library across 4 modules, cutting duplicate markup by ~35%<br/>
 &nbsp;&nbsp;▶ Enforce code quality via Git workflows and PR reviews, reducing post-merge bugs by 20%
+</td>
+</tr>
+
+<tr>
+<td><strong>🤖 AI/ML Prompt Engineering Intern</strong></td>
+<td><strong>LearnersByte, Hyderabad</strong></td>
+<td>Jan 2026 – May 2026</td>
+</tr>
+<tr>
+<td colspan="3">
+&nbsp;&nbsp;▶ Engineer prompt architectures for production LLM pipelines across 3 NLP-based applications<br/>
+&nbsp;&nbsp;▶ Design A/B prompt experiments across 10+ model configurations to drive iterative performance gains<br/>
+&nbsp;&nbsp;▶ Integrate AI outputs into web interfaces with a 4-person frontend team, cutting curation time by ~30%<br/>
+&nbsp;&nbsp;▶ Maintain prompt-strategy knowledge base and performance benchmark dashboards
 </td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
@@ -186,7 +187,6 @@
 🔹 Full-stack flight booking platform with 3-tier role-based access (admin, staff, passenger)<br/>
 🔹 Engineered normalised MySQL schema for 1,000+ records — cut redundant joins by 30%<br/>
 🔹 Reduced average record-retrieval time by 20% via indexed foreign keys<br/>
-🔹 <a href="#">GitHub Repo</a>
 </li>
 
 <br/>
@@ -196,7 +196,6 @@
 🔹 Multi-role attendance platform supporting 200+ student records with real-time reporting<br/>
 🔹 Eliminated 40% of manual logging effort through automated report generation & CSV export<br/>
 🔹 Session-based login with 3 discrete access tiers enforcing data isolation<br/>
-🔹 <a href="#">GitHub Repo</a>
 </li>
 
 <br/>
@@ -206,7 +205,6 @@
 🔹 Real-time emotion classifier using Haar cascades + pre-trained CNN (happy, sad, angry, surprised)<br/>
 🔹 Live webcam feed with visual emotion feedback overlay<br/>
 🔹 Focused on inference speed, accuracy, and intuitive UI<br/>
-🔹 <a href="#">GitHub Repo</a>
 </li>
 
 <br/>
@@ -215,7 +213,6 @@
 <strong>🌐 Portfolio Website</strong> &nbsp;|&nbsp; <em>HTML · CSS · JavaScript</em><br/>
 🔹 Personal portfolio showcasing projects, skills, and work experience<br/>
 🔹 Responsive design with custom mouse tracker, scroll animations, and contact form<br/>
-🔹 <a href="https://anikeshtiwari.github.io/Anikesh-Portfolio/">Live Demo</a>
 </li>
 
 </ul>

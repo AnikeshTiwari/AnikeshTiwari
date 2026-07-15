@@ -1,13 +1,13 @@
 ![Anikesh | Full Stack Developer](banner1.jpeg)
 
 <h1 align="center">Hi 👋, I'm <br/>Anikesh Tiwari</h1>
-<h3 align="center">Full Stack Developer | AI/ML Prompt Engineer | Information Science Engineering Student</h3>
+<h3 align="center">Full Stack Developer | Laravel • PHP • MySQL | AI/ML Prompt Engineering</h3>
 
 <p align="center">
-  🚀 Building end-to-end web applications — from database schema to browser render<br/>
-  🤖 Engineering LLM prompt pipelines at LearnersByte<br/>
-  💼 Full Stack Developer at CatchySystem (Laravel · PHP · JavaScript)<br/>
-  🎯 25% faster queries · 40% less manual work · 20% more user engagement
+🚀 Building Healthcare, HRMS, LMS & CRM web applications
+💻 Laravel • PHP • MySQL • JavaScript • REST APIs
+🤖 AI/ML Prompt Engineering & LLM Evaluation
+🎯 REST APIs • Database Optimization • Third-party Integrations
 </p>
 
 <p align="center">
@@ -24,12 +24,11 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-🎓 Final-year B.E. Information Science & Engineering student at Brindavan Group of Institutions, VTU (CGPA: 7.50)<br/>
-💻 Full Stack Developer with 2+ years of cross-company experience across 4 organisations<br/>
-💻 Currently developing end-to-end full-stack web solutions at Catchysystem Technologies Pvt. Ltd., spanning backend architecture, APIs, databases, and frontend interfaces<br/>
-⚙️ Proficient across the full stack — Laravel, PHP, MySQL on backend; JavaScript, HTML5, CSS3 on frontend<br/>
-📊 Track record of measurable impact: cut DB latency by 25%, reduced manual workflows by 40%, lifted engagement by 20%<br/>
-🧠 Operating at the intersection of UI engineering and AI/ML tooling
+🎓 B.E. Information Science & Engineering student at Brindavan Group of Institutions, VTU (CGPA: 7.50)<br/>
+💻 Full Stack Developer with 1 year of production experience building Healthcare, HRMS, LMS and CRM applications<br/>
+⚙️ Experienced with Laravel, PHP, MySQL, JavaScript, HTML5, CSS3 and REST APIs<br/>
+🔗 Built RESTful APIs, integrated third-party services and implemented Role-Based Access Control (RBAC)<br/>
+🤖 Completed AI/ML Prompt Engineering Internship with hands-on experience in LLM evaluation and NLP pipeline testing
 </p>
 
 <hr/>
@@ -42,14 +41,14 @@
 <tr>
 <td><strong>🖥️ Full Stack Developer</strong></td>
 <td><strong>Catchysystem Technologies Pvt. Ltd., Surat</strong></td>
-<td>July 2025 – Present</td>
+<td>July 2025 – July 2026</td>
 </tr>
 <tr>
 <td colspan="3">
-&nbsp;&nbsp;▶ Build and ship end-to-end features using Laravel, PHP, Blade, CSS, and JavaScript across 5+ client modules<br/>
-&nbsp;&nbsp;▶ Design and expose RESTful API endpoints, reducing average API response time by ~18%<br/>
-&nbsp;&nbsp;▶ Architected a reusable Blade component library across 4 modules, cutting duplicate markup by ~35%<br/>
-&nbsp;&nbsp;▶ Enforce code quality via Git workflows and PR reviews, reducing post-merge bugs by 20%
+&nbsp;&nbsp;▶ Shipped 4 production web applications (Healthcare, HRMS, LMS, CRM) using Laravel, PHP, MySQL, Blade, JavaScript, HTML and CSS<br/>
+&nbsp;&nbsp;▶ Engineered RESTful APIs and integrated 5+ third-party services covering authentication, SMS/email communication and business workflows<br/>
+&nbsp;&nbsp;▶ Optimised database queries reducing average page response time by approximately 20% across multiple application modules<br/>
+&nbsp;&nbsp;▶ Collaborated with frontend, backend and QA teams using Git workflows to deliver production-ready features
 </td>
 </tr>
 
@@ -62,10 +61,10 @@
 </tr>
 <tr>
 <td colspan="3">
-&nbsp;&nbsp;▶ Engineer prompt architectures for production LLM pipelines across 3 NLP-based applications<br/>
-&nbsp;&nbsp;▶ Design A/B prompt experiments across 10+ model configurations to drive iterative performance gains<br/>
-&nbsp;&nbsp;▶ Integrate AI outputs into web interfaces with a 4-person frontend team, cutting curation time by ~30%<br/>
-&nbsp;&nbsp;▶ Maintain prompt-strategy knowledge base and performance benchmark dashboards
+&nbsp;&nbsp;▶ Designed prompt architectures for 3 LLM-based NLP applications<br/>
+&nbsp;&nbsp;▶ Evaluated AI outputs across 10+ prompt configurations improving contextual accuracy<br/>
+&nbsp;&nbsp;▶ Integrated AI-generated content into 2 web applications reducing manual content effort by ~30%<br/>
+&nbsp;&nbsp;▶ Documented 20+ prompt strategies and testing results for team knowledge sharing
 </td>
 </tr>
 
@@ -110,7 +109,7 @@
 <p>
 ✔️ Full Stack Web Development (Laravel · PHP · JavaScript · HTML5 · CSS3)<br/>
 ✔️ RESTful API Design & Integration<br/>
-✔️ Database Design & Optimisation (MySQL · MongoDB · SQLite)<br/>
+✔️ Database Design & Query Optimisation (MySQL)<br/>
 ✔️ AI/ML Prompt Engineering & LLM Output Evaluation<br/>
 ✔️ Component-driven UI & Responsive Design<br/>
 ✔️ Authentication & Security (JWT · Role-based Access Control)<br/>
@@ -154,7 +153,7 @@
 
 <h4 align="left">AI / ML</h4>
 <p align="left">
-🔹 Prompt Engineering &nbsp;&nbsp; 🔹 LLM Output Evaluation &nbsp;&nbsp; 🔹 NLP Pipeline Testing &nbsp;&nbsp; 🔹 A/B Experiment Design
+🔹 Prompt Engineering &nbsp;&nbsp; 🔹 LLM Output Evaluation &nbsp;&nbsp; 🔹 NLP Pipeline Testing &nbsp;&nbsp; 🔹 A/B Prompt Testing
 </p>
 
 <br/>
@@ -209,20 +208,11 @@
 <br/>
 
 <li>
-<strong>😊 Facial Expression Detection System</strong> &nbsp;|&nbsp; <em>Python · OpenCV · CNN · Deep Learning</em><br/>
-🔹 Real-time emotion classifier using Haar cascades + pre-trained CNN (happy, sad, angry, surprised)<br/>
-🔹 Live webcam feed with visual emotion feedback overlay<br/>
-🔹 Focused on inference speed, accuracy, and intuitive UI<br/>
+<strong>🦷 Dental Laboratory CRM</strong> &nbsp;|&nbsp; <em>Laravel · PHP · MySQL · JavaScript · REST APIs</em><br/>
+🔹 Developed a CRM for dental laboratories to manage customer orders, production workflows, challans and invoices<br/>
+🔹 Built role-based modules for order tracking, billing and customer management<br/>
+🔹 Automated invoice and challan generation with optimised database operations reducing document turnaround time
 </li>
-
-<br/>
-
-<li>
-<strong>🌐 Portfolio Website</strong> &nbsp;|&nbsp; <em>HTML · CSS · JavaScript</em><br/>
-🔹 Personal portfolio showcasing projects, skills, and work experience<br/>
-🔹 Responsive design with custom mouse tracker, scroll animations, and contact form<br/>
-</li>
-
 </ul>
 
 <hr/>

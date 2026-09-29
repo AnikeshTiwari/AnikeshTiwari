@@ -25,6 +25,7 @@
 
 <p align="left">
 🎓 B.E. Information Science & Engineering student at Brindavan Group of Institutions, VTU (CGPA: 7.50)<br/>
+📍 Based in <strong>Surat, Gujarat, India</strong> (Open to Remote Worldwide)<br/>
 💼 <strong>Backend Developer at Tourpublish (Riga, Latvia)</strong>, engineering enterprise NestJS/TypeScript backends, Supabase/PostgreSQL databases, and third-party cloud integrations<br/>
 ⚙️ Strong proficiency across <strong>TypeScript, NestJS, Node.js, PHP, Laravel, PostgreSQL, MySQL, Supabase, and REST APIs</strong><br/>
 🔗 Hands-on experience architecting <strong>Multi-Tenant systems, Stripe payment pipelines, OpenTelemetry observability, and Role-Based Access Control (RBAC)</strong><br/>
@@ -41,7 +42,7 @@
 <!-- 1. TOURPUBLISH (LATEST / CURRENT) -->
 <tr>
 <td><strong>⚙️ Backend Developer</strong></td>
-<td><strong>Tourpublish, Riga, Latvia</strong></td>
+<td><strong>Tourpublish, Riga, Latvia (Remote)</strong></td>
 <td>July 2026 – Present</td>
 </tr>
 <tr>
@@ -58,7 +59,7 @@
 <!-- 2. CATCHYSYSTEM -->
 <tr>
 <td><strong>🖥️ Full Stack Developer</strong></td>
-<td><strong>Catchysystem Technologies Pvt. Ltd., Surat</strong></td>
+<td><strong>Catchysystem Technologies Pvt. Ltd., Surat, Gujarat</strong></td>
 <td>July 2025 – July 2026</td>
 </tr>
 <tr>
@@ -75,7 +76,7 @@
 <!-- 3. LEARNERSBYTE -->
 <tr>
 <td><strong>🤖 AI/ML Prompt Engineering Intern</strong></td>
-<td><strong>LearnersByte, Hyderabad</strong></td>
+<td><strong>LearnersByte, Hyderabad, India</strong></td>
 <td>Jan 2026 – May 2026</td>
 </tr>
 <tr>
@@ -91,8 +92,8 @@
 
 <!-- 4. TOUCHES COMPUTER -->
 <tr>
-<td><strong>🌐 Web Developer</strong></td>
-<td><strong>Touches Computer, Surat</strong></td>
+<td><strong>🌐 Web Developer Intern</strong></td>
+<td><strong>Touches Computer, Surat, Gujarat</strong></td>
 <td>Dec 2023 – Feb 2024</td>
 </tr>
 <tr>
@@ -108,7 +109,7 @@
 <!-- 5. SUVYA WEB -->
 <tr>
 <td><strong>⚙️ Software Developer Intern</strong></td>
-<td><strong>Suvya Web, Surat</strong></td>
+<td><strong>Suvya Web, Surat, Gujarat</strong></td>
 <td>Sep 2023 – Nov 2023</td>
 </tr>
 <tr>
@@ -217,17 +218,17 @@
 <li>
 <strong>📊 Tuition Fee & Attendance Management System</strong> &nbsp;|&nbsp; <em>JavaScript · Supabase · PostgreSQL · SheetJS · Vanilla CSS</em><br/>
 🔹 Production-grade coaching management portal with real-time Supabase cloud sync & offline resilience<br/>
-🔹 Built 3-tier Role-Based Access Control (Superadmin, Admin, Teacher, Viewer) with multi-level approval workflows<br/>
-🔹 Implemented 1–31 day interactive attendance matrix registers with Excel export and batch allocation (Morning/Afternoon)<br/>
+🔹 Built 4-tier Role-Based Access Control (Superadmin, Admin, Teacher, Viewer) with multi-level financial and attendance auditing<br/>
+🔹 Implemented 1–31 day interactive attendance matrix registers with sticky multi-column freezing and Excel export<br/>
 </li>
 
 <br/>
 
 <li>
-<strong>🦷 Dental Laboratory Multi-Tenant CRM</strong> &nbsp;|&nbsp; <em>Laravel 12 · PHP 8 · MySQL · Inertia.js · REST APIs</em><br/>
+<strong>🦷 Dental Laboratory Multi-Tenant CRM</strong> &nbsp;|&nbsp; <em>Laravel 12 · PHP 8.2 · MySQL · Inertia.js · REST APIs</em><br/>
 🔹 Developed an enterprise CRM for dental laboratories to manage customer orders, production workflows, and invoices<br/>
 🔹 Built role-based modules for multi-tenant order tracking, billing, and customer management<br/>
-🔹 Automated PDF invoice and barcode/challan generation with optimized database operations reducing turnaround time
+🔹 Automated PDF invoice and barcode/challan generation with optimized database operations, cutting turnaround time by 40%
 </li>
 
 <br/>
@@ -250,7 +251,7 @@
 📘 <strong>B.E. – Information Science and Engineering</strong><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Brindavan Group of Institutions, VTU, Bengaluru &nbsp;|&nbsp; 2023 – 2026 &nbsp;|&nbsp; CGPA: 7.50<br/><br/>
 📗 <strong>Diploma – Information Technology</strong><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Bhagwan Mahavir University, Surat &nbsp;|&nbsp; 2021 – 2023 &nbsp;|&nbsp; CGPA: 6.91
+&nbsp;&nbsp;&nbsp;&nbsp;Bhagwan Mahavir University, Surat, Gujarat &nbsp;|&nbsp; 2021 – 2023 &nbsp;|&nbsp; CGPA: 6.91
 </p>
 
 <hr/>
@@ -301,6 +302,6 @@
 
 <p align="left">
 🤝 Open to backend, full-stack, and AI/ML project collaborations<br/>
-📬 Reach out for freelance work, internships, or engineering opportunities<br/>
+📬 Reach out for freelance work, contract engineering, or full-time opportunities<br/>
 💡 Especially interested in projects at the intersection of scalable backend architectures and AI tooling
 </p>

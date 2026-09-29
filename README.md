@@ -1,13 +1,13 @@
-![Anikesh | Full Stack & Backend Developer](banner1.jpeg)
+![Anikesh | Backend & Full Stack Developer](banner1.jpeg)
 
 <h1 align="center">Hi 👋, I'm <br/>Anikesh Tiwari</h1>
-<h3 align="center">Backend & Full Stack Developer | Laravel • PHP • MySQL • PostgreSQL | AI/ML Prompt Engineering</h3>
+<h3 align="center">Backend & Full Stack Developer | NestJS • TypeScript • Laravel • PHP • PostgreSQL • MySQL</h3>
 
 <p align="center">
-🚀 Backend Developer at <strong>Tourpublish (Riga, Latvia)</strong> | Building High-Performance Web Applications<br/>
-💻 Laravel • PHP • MySQL • PostgreSQL • RESTful APIs • Supabase<br/>
+🚀 Backend Developer at <strong>Tourpublish (Riga, Latvia)</strong> | Building Scalable Cloud Backends & Microservices<br/>
+💻 TypeScript • NestJS • Node.js • PHP • Laravel • PostgreSQL • MySQL • Supabase<br/>
 🤖 AI/ML Prompt Engineering & LLM Integration<br/>
-🎯 Database Optimization • Scalable Architecture • Role-Based Access Control (RBAC)
+🎯 RESTful APIs • Multi-Tenant Architecture • Stripe Payments • OpenTelemetry • RBAC
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 
 <p align="left">
 🎓 B.E. Information Science & Engineering student at Brindavan Group of Institutions, VTU (CGPA: 7.50)<br/>
-💼 <strong>Backend Developer at Tourpublish (Riga, Latvia)</strong>, engineering scalable backend services and high-performance REST APIs<br/>
-⚙️ Strong expertise in <strong>PHP, Laravel, MySQL, PostgreSQL, Supabase, JavaScript, REST APIs</strong>, and MVC system architectures<br/>
-🔗 Specialized in complex database schema design, query optimization, third-party integrations, and Role-Based Access Control (RBAC)<br/>
-🤖 Experienced in AI/ML Prompt Engineering, LLM evaluation, and intelligent workflow automation
+💼 <strong>Backend Developer at Tourpublish (Riga, Latvia)</strong>, engineering enterprise NestJS/TypeScript backends, Supabase/PostgreSQL databases, and third-party cloud integrations<br/>
+⚙️ Strong proficiency across <strong>TypeScript, NestJS, Node.js, PHP, Laravel, PostgreSQL, MySQL, Supabase, and REST APIs</strong><br/>
+🔗 Hands-on experience architecting <strong>Multi-Tenant systems, Stripe payment pipelines, OpenTelemetry observability, and Role-Based Access Control (RBAC)</strong><br/>
+🤖 Certified AI/ML Prompt Engineer with practical background in LLM output evaluation and NLP testing pipelines
 </p>
 
 <hr/>
@@ -46,10 +46,10 @@
 </tr>
 <tr>
 <td colspan="3">
-&nbsp;&nbsp;▶ Architected and developed scalable backend services and high-throughput RESTful APIs using PHP, Laravel, and PostgreSQL/MySQL<br/>
-&nbsp;&nbsp;▶ Designed normalized database schemas, implemented advanced indexing, and optimized query execution paths for rapid response times<br/>
-&nbsp;&nbsp;▶ Engineered secure authentication workflows, third-party API integrations, and granular Role-Based Access Control (RBAC)<br/>
-&nbsp;&nbsp;▶ Collaborated with cross-functional international teams following agile Git workflows to ship robust, production-grade features
+&nbsp;&nbsp;▶ Architecting enterprise-grade microservices and high-throughput RESTful APIs using <strong>NestJS 11, TypeScript, and Node.js</strong><br/>
+&nbsp;&nbsp;▶ Designed scalable cloud database architectures with <strong>PostgreSQL and Supabase</strong>, optimizing complex query pipelines and indexing strategies<br/>
+&nbsp;&nbsp;▶ Integrated <strong>Stripe payment processing, AWS S3 storage presigning, Cloudflare, and Web-Push notification services</strong><br/>
+&nbsp;&nbsp;▶ Implemented <strong>OpenTelemetry (OTLP)</strong> observability, OpenAPI/Swagger API documentation, and automated E2E testing with Jest & Supertest
 </td>
 </tr>
 
@@ -63,10 +63,10 @@
 </tr>
 <tr>
 <td colspan="3">
-&nbsp;&nbsp;▶ Shipped 4 production web applications (Healthcare, HRMS, LMS, CRM) using Laravel, PHP, MySQL, Blade, JavaScript, HTML and CSS<br/>
-&nbsp;&nbsp;▶ Engineered RESTful APIs and integrated 5+ third-party services covering authentication, SMS/email communication and business workflows<br/>
-&nbsp;&nbsp;▶ Optimised database queries reducing average page response time by approximately 20% across multiple application modules<br/>
-&nbsp;&nbsp;▶ Collaborated with frontend, backend and QA teams using Git workflows to deliver production-ready features
+&nbsp;&nbsp;▶ Engineered production multi-tenant web platforms using <strong>Laravel 12, PHP 8.2, MySQL, Inertia.js, and Blade</strong><br/>
+&nbsp;&nbsp;▶ Built robust <strong>RESTful APIs, Sanctum authentication, and Spatie Role-Based Access Control (RBAC)</strong> across Healthcare, HRMS, and CRM modules<br/>
+&nbsp;&nbsp;▶ Integrated <strong>Yajra DataTables, DomPDF automated invoicing, and Maatwebsite Excel reporting</strong>, cutting document turnaround times by ~25%<br/>
+&nbsp;&nbsp;▶ Optimized database queries and multi-tenant schema migrations, reducing server latency by 20%
 </td>
 </tr>
 
@@ -126,12 +126,13 @@
 <h2 align="left">⚡ Core Skills</h2>
 
 <p>
-✔️ <strong>Backend Development</strong> (Laravel · PHP · RESTful API Design · Microservices Architecture · MVC)<br/>
-✔️ <strong>Databases & Cloud</strong> (MySQL · PostgreSQL · Supabase · Database Normalization & Indexing · Query Optimization)<br/>
-✔️ <strong>Frontend & UI</strong> (JavaScript · Blade · HTML5 · CSS3 · Bootstrap · Responsive Design)<br/>
-✔️ <strong>Security & Architecture</strong> (JWT Authentication · Role-Based Access Control [RBAC] · API Rate Limiting)<br/>
-✔️ <strong>AI / ML</strong> (Prompt Engineering · LLM Output Evaluation · NLP Pipeline Integration)<br/>
-✔️ <strong>Tools & DevOps</strong> (Git · GitHub · Postman · VS Code · SheetJS Excel Automation)
+✔️ <strong>Backend Development</strong> (NestJS · TypeScript · Node.js · Laravel · PHP · RESTful API Architecture · Microservices)<br/>
+✔️ <strong>Databases & Cloud</strong> (PostgreSQL · MySQL · Supabase · Multi-Tenancy · AWS S3 · Indexing & Optimization)<br/>
+✔️ <strong>API & Integrations</strong> (Stripe Payments · Web-Push · Resend Email · Swagger/OpenAPI · JWT & Sanctum Auth)<br/>
+✔️ <strong>Architecture & Security</strong> (Role-Based Access Control [RBAC] · OpenTelemetry Observability · Rate Limiting)<br/>
+✔️ <strong>AI / ML</strong> (Prompt Engineering · LLM Output Evaluation · NLP Pipeline Testing)<br/>
+✔️ <strong>Frontend & UI</strong> (JavaScript · Inertia.js · Blade · HTML5 · CSS3 · Bootstrap · Responsive UI)<br/>
+✔️ <strong>DevOps & Testing</strong> (Git · GitHub · Postman · Jest · Supertest · VS Code)
 </p>
 
 <hr/>
@@ -139,28 +140,30 @@
 <!-- ===================== TECH STACK ===================== -->
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
-<h4 align="left">Backend</h4>
+<h4 align="left">Backend & Frameworks</h4>
 <div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+<img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 </div>
 
 <p align="left">
-🔹 RESTful API Architecture &nbsp;&nbsp; 🔹 JWT & Session Auth &nbsp;&nbsp; 🔹 MVC Architecture &nbsp;&nbsp; 🔹 Role-Based Access Control (RBAC)
+🔹 RESTful API Architecture &nbsp;&nbsp; 🔹 Microservices &nbsp;&nbsp; 🔹 OpenTelemetry &nbsp;&nbsp; 🔹 Multi-Tenant Architecture &nbsp;&nbsp; 🔹 RBAC
 </p>
 
 <br/>
 
 <h4 align="left">Databases & Cloud</h4>
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-<img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
 <img width="12"/>
@@ -221,19 +224,19 @@
 <br/>
 
 <li>
-<strong>✈️ Airport Management System</strong> &nbsp;|&nbsp; <em>PHP · MySQL · DBMS · XAMPP</em><br/>
-🔹 Full-stack flight booking platform with 3-tier role-based access (admin, staff, passenger)<br/>
-🔹 Engineered normalised MySQL schema for 1,000+ records — cut redundant joins by 30%<br/>
-🔹 Reduced average record-retrieval time by 20% via indexed foreign keys<br/>
+<strong>🦷 Dental Laboratory Multi-Tenant CRM</strong> &nbsp;|&nbsp; <em>Laravel 12 · PHP 8 · MySQL · Inertia.js · REST APIs</em><br/>
+🔹 Developed an enterprise CRM for dental laboratories to manage customer orders, production workflows, and invoices<br/>
+🔹 Built role-based modules for multi-tenant order tracking, billing, and customer management<br/>
+🔹 Automated PDF invoice and barcode/challan generation with optimized database operations reducing turnaround time
 </li>
 
 <br/>
 
 <li>
-<strong>🦷 Dental Laboratory CRM</strong> &nbsp;|&nbsp; <em>Laravel · PHP · MySQL · JavaScript · REST APIs</em><br/>
-🔹 Developed a CRM for dental laboratories to manage customer orders, production workflows, challans and invoices<br/>
-🔹 Built role-based modules for order tracking, billing and customer management<br/>
-🔹 Automated invoice and challan generation with optimised database operations reducing document turnaround time
+<strong>✈️ Airport Management System</strong> &nbsp;|&nbsp; <em>PHP · MySQL · DBMS · XAMPP</em><br/>
+🔹 Full-stack flight booking platform with 3-tier role-based access (admin, staff, passenger)<br/>
+🔹 Engineered normalised MySQL schema for 1,000+ records — cut redundant joins by 30%<br/>
+🔹 Reduced average record-retrieval time by 20% via indexed foreign keys<br/>
 </li>
 
 </ul>
@@ -268,8 +271,8 @@
 
 <ul>
 <li>Advanced LLM prompt strategies & AI agent architectures</li>
-<li>React.js & modern frontend frameworks</li>
-<li>System Design & high-scale distributed backend patterns</li>
+<li>System Design & distributed backend architectures</li>
+<li>High-concurrency microservices with NestJS & Go</li>
 </ul>
 
 <hr/>

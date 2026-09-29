@@ -42,7 +42,7 @@
 <tr>
 <td><strong>⚙️ Backend Developer</strong></td>
 <td><strong>Tourpublish, Riga, Latvia</strong></td>
-<td>Aug 2026 – Present</td>
+<td>July 2026 – Present</td>
 </tr>
 <tr>
 <td colspan="3">

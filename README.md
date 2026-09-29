@@ -1,307 +1,228 @@
-![Anikesh | Backend & Full Stack Developer](banner1.jpeg)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm <br/>Anikesh Tiwari</h1>
-<h3 align="center">Backend & Full Stack Developer | NestJS • TypeScript • Laravel • PHP • PostgreSQL • MySQL</h3>
+<!-- Banner Image -->
+<img src="banner1.jpeg" alt="Anikesh Tiwari | Backend & Cloud Systems Engineer" width="100%" />
 
+<br/><br/>
+
+<!-- Dynamic Typing SVG Headline -->
+<a href="https://anikeshtiwari.github.io/Anikesh-Portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+%26+Cloud+Systems+Engineer;NestJS+11+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Supabase;Laravel+12+%E2%80%A2+Multi-Tenant+Architecture+%E2%80%A2+Spatie+RBAC;Stripe+Gateways+%E2%80%A2+OpenTelemetry+Tracing;AI%2FML+Prompt+Engineering+%E2%80%A2+LLM+Evaluation" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Quick Navigation & Social Badges -->
 <p align="center">
-🚀 Backend Developer at <strong>Tourpublish (Riga, Latvia)</strong> | Building Scalable Cloud Backends & Microservices<br/>
-💻 TypeScript • NestJS • Node.js • PHP • Laravel • PostgreSQL • MySQL • Supabase<br/>
-🤖 AI/ML Prompt Engineering & LLM Integration<br/>
-🎯 RESTful APIs • Multi-Tenant Architecture • Stripe Payments • OpenTelemetry • RBAC
+  <a href="https://anikeshtiwari.github.io/Anikesh-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Anikesh.dev-2563eb?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/anikesh-tiwari-35a592217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sparkle.anikesh01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sparkle.anikesh01@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/1JcIsWL-r0MtMnk4BLgL7pSsECvK64mMP/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-8b5cf6?style=for-the-badge" alt="Resume" />
+  </a>
 </p>
 
+<!-- Real-time Status Badges -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnikeshTiwari&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Current_Role-🟢_Backend_Developer_@_Tourpublish_(Riga%2C_Latvia)-10b981?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-📍_Surat%2C_Gujarat%2C_India_(Remote_Worldwide)-3b82f6?style=flat-square" alt="Location" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnikeshTiwari/AnikeshTiwari/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
 
-<hr/>
+---
 
-<!-- ===================== ABOUT ME ===================== -->
-<h2 align="left">👨‍💻 About Me</h2>
+### 💻 System Architecture & Telemetry Snapshot
 
-<p align="left">
-🎓 B.E. Information Science & Engineering student at Brindavan Group of Institutions, VTU (CGPA: 7.50)<br/>
-📍 Based in <strong>Surat, Gujarat, India</strong> (Open to Remote Worldwide)<br/>
-💼 <strong>Backend Developer at Tourpublish (Riga, Latvia)</strong>, engineering enterprise NestJS/TypeScript backends, Supabase/PostgreSQL databases, and third-party cloud integrations<br/>
-⚙️ Strong proficiency across <strong>TypeScript, NestJS, Node.js, PHP, Laravel, PostgreSQL, MySQL, Supabase, and REST APIs</strong><br/>
-🔗 Hands-on experience architecting <strong>Multi-Tenant systems, Stripe payment pipelines, OpenTelemetry observability, and Role-Based Access Control (RBAC)</strong><br/>
-🤖 Certified AI/ML Prompt Engineer with practical background in LLM output evaluation and NLP testing pipelines
-</p>
+```yaml
+system: "Tourpublish Production Infrastructure"
+engineer: "Anikesh Rakesh Tiwari"
+location: "Surat, Gujarat, India (Remote Worldwide)"
+status: "🟢 200 OK — Uptime 99.98%"
 
-<hr/>
+core_stack:
+  backend: "NestJS 11 • Node.js • TypeScript • Laravel 12 (MVC) • PHP 8.2"
+  databases: "PostgreSQL 16 • Supabase • MySQL (Multi-Tenant Isolated Schemas)"
+  cloud_pipelines: "Stripe Webhooks • AWS S3 Presigned URLs • Cloudflare • Web-Push"
+  observability: "OpenTelemetry (OTLP Collector) • Jest & Supertest E2E Testing"
+  access_control: "Spatie Role-Based Access Control (RBAC) • Laravel Sanctum / JWT"
+  ai_intelligence: "LLM Output Evaluation • Structured Prompt Architecture • NLP Testing"
+```
 
-<!-- ===================== EXPERIENCE ===================== -->
-<h2 align="left">💼 Work Experience</h2>
+---
+
+## ⚡ 01. About Me & Technical Philosophy
+
+▸ 💼 **Backend Developer at Tourpublish (Riga, Latvia — Remote)**: Architecting high-throughput RESTful APIs, multi-tenant databases, and cloud payment pipelines.  
+▸ ⚙️ **Enterprise Full-Stack & Systems**: Production-tested across **TypeScript, NestJS, Node.js, PHP, Laravel, PostgreSQL, and MySQL**.  
+▸ 🛡️ **Security & Observability**: Specialized in **Multi-Tenant RBAC Isolation, Stripe Payment Gateways, and OpenTelemetry (OTLP)** distributed tracing.  
+▸ 🤖 **AI/ML Engineering**: Certified background in **LLM prompt evaluation, benchmark testing, and automated NLP integration**.  
+▸ 🎓 **Academic Foundation**:  
+  - **B.E. — Information Science & Engineering** | Brindavan Group of Institutions, VTU (*CGPA: 7.50*)  
+  - **Diploma — Information Technology** | Bhagwan Mahavir University, Surat (*CGPA: 6.91*)  
+
+---
+
+## 💼 02. Production Work Experience
+
+### 🚀 **Backend Developer** — `Tourpublish` *(Riga, Latvia • Remote)*
+`July 2026 — Present` &nbsp;|&nbsp; `NestJS 11` • `TypeScript` • `PostgreSQL` • `Supabase` • `Stripe` • `AWS S3` • `OTLP` • `Jest`
+- Architecting enterprise backend microservices and high-throughput RESTful APIs using **NestJS 11, TypeScript, and Node.js**.
+- Engineered cloud database architectures on **PostgreSQL and Supabase**, designing normalized schemas with composite indexing.
+- Integrated **Stripe payment gateways, AWS S3 presigned asset storage, Cloudflare CDN, and Web-Push** notification pipelines.
+- Implemented **OpenTelemetry (OTLP)** observability for distributed request tracing paired with automated Jest/Supertest E2E suites.
+
+---
+
+### 🖥️ **Full Stack Developer** — `Catchysystem Technologies Pvt. Ltd.` *(Surat, Gujarat)*
+`July 2025 — July 2026` &nbsp;|&nbsp; `Laravel 12` • `PHP 8.2` • `MySQL` • `Inertia.js` • `Spatie RBAC` • `DomPDF`
+- Shipped multi-tenant web platforms across Healthcare, HRMS, and CRM domains with **Laravel 12, PHP 8.2, MySQL, Inertia.js, and Blade**.
+- Engineered secure RESTful APIs with Sanctum auth and **Spatie Role-Based Access Control (RBAC)**, enforcing strict tenant data isolation.
+- Integrated **Yajra DataTables, DomPDF automated invoicing, and Maatwebsite Excel reporting**, cutting manual turnaround by **~25%**.
+- Optimized database queries and multi-tenant schema migrations, reducing server latency by **~20%** across high-traffic modules.
+
+---
+
+### 🤖 **AI/ML Prompt Engineering Intern** — `LearnersByte` *(Hyderabad, India)*
+`Jan 2026 — May 2026` &nbsp;|&nbsp; `Prompt Engineering` • `LLM Evaluation` • `NLP Integration` • `A/B Testing` • `Python`
+- Designed and iterated prompt architectures for 3 LLM-based NLP applications, improving response contextual accuracy via structured A/B testing.
+- Evaluated AI outputs across 10+ configurations, cutting erroneous model outputs by **~25%**.
+- Integrated AI content pipelines into 2 web applications, reducing manual content curation effort by **~30%**.
+- Authored a prompt-pattern knowledge base documenting 20+ tested strategies for rapid engineering onboarding.
+
+---
+
+### 🌐 **Web Developer Intern** — `Touches Computer` *(Surat, Gujarat)*
+`Dec 2023 — Feb 2024` &nbsp;|&nbsp; `JavaScript` • `HTML5 / CSS3` • `MySQL Optimization` • `Cross-Browser QA`
+- Delivered 10+ production-ready responsive pages, contributing to a measured 20% uplift in session engagement.
+- Optimised MySQL queries across 3 internal data tools, cutting average data-retrieval latency by **25%**.
+- Diagnosed and resolved 15+ cross-browser rendering bugs across Chrome, Firefox, and Safari.
+
+---
+
+### ⚙️ **Software Developer Intern** — `Suvya Web` *(Surat, Gujarat)*
+`Sep 2023 — Nov 2023` &nbsp;|&nbsp; `PHP` • `MySQL` • `MVC Architecture` • `Unit Testing`
+- Implemented MVC-structured modules with 3 backend engineers for 2 client-facing releases on schedule.
+- Reduced QA defects by 15% through unit testing and structured debugging sessions across 3-month sprint cycles.
+- Refactored legacy code paths to eliminate redundant database calls, improving response times by **~10%**.
+
+---
+
+## 🛠️ 03. Technical Proficiencies
 
 <table>
-
-<!-- 1. TOURPUBLISH (LATEST / CURRENT) -->
-<tr>
-<td><strong>⚙️ Backend Developer</strong></td>
-<td><strong>Tourpublish, Riga, Latvia (Remote)</strong></td>
-<td>July 2026 – Present</td>
-</tr>
-<tr>
-<td colspan="3">
-&nbsp;&nbsp;▶ Architecting enterprise-grade microservices and high-throughput RESTful APIs using <strong>NestJS 11, TypeScript, and Node.js</strong><br/>
-&nbsp;&nbsp;▶ Designed scalable cloud database architectures with <strong>PostgreSQL and Supabase</strong>, optimizing complex query pipelines and indexing strategies<br/>
-&nbsp;&nbsp;▶ Integrated <strong>Stripe payment processing, AWS S3 storage presigning, Cloudflare, and Web-Push notification services</strong><br/>
-&nbsp;&nbsp;▶ Implemented <strong>OpenTelemetry (OTLP)</strong> observability, OpenAPI/Swagger API documentation, and automated E2E testing with Jest & Supertest
-</td>
-</tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<!-- 2. CATCHYSYSTEM -->
-<tr>
-<td><strong>🖥️ Full Stack Developer</strong></td>
-<td><strong>Catchysystem Technologies Pvt. Ltd., Surat, Gujarat</strong></td>
-<td>July 2025 – July 2026</td>
-</tr>
-<tr>
-<td colspan="3">
-&nbsp;&nbsp;▶ Engineered production multi-tenant web platforms using <strong>Laravel 12, PHP 8.2, MySQL, Inertia.js, and Blade</strong><br/>
-&nbsp;&nbsp;▶ Built robust <strong>RESTful APIs, Sanctum authentication, and Spatie Role-Based Access Control (RBAC)</strong> across Healthcare, HRMS, and CRM modules<br/>
-&nbsp;&nbsp;▶ Integrated <strong>Yajra DataTables, DomPDF automated invoicing, and Maatwebsite Excel reporting</strong>, cutting document turnaround times by ~25%<br/>
-&nbsp;&nbsp;▶ Optimized database queries and multi-tenant schema migrations, reducing server latency by 20%
-</td>
-</tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<!-- 3. LEARNERSBYTE -->
-<tr>
-<td><strong>🤖 AI/ML Prompt Engineering Intern</strong></td>
-<td><strong>LearnersByte, Hyderabad, India</strong></td>
-<td>Jan 2026 – May 2026</td>
-</tr>
-<tr>
-<td colspan="3">
-&nbsp;&nbsp;▶ Designed prompt architectures for 3 LLM-based NLP applications<br/>
-&nbsp;&nbsp;▶ Evaluated AI outputs across 10+ prompt configurations improving contextual accuracy<br/>
-&nbsp;&nbsp;▶ Integrated AI-generated content into 2 web applications reducing manual content effort by ~30%<br/>
-&nbsp;&nbsp;▶ Documented 20+ prompt strategies and testing results for team knowledge sharing
-</td>
-</tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<!-- 4. TOUCHES COMPUTER -->
-<tr>
-<td><strong>🌐 Web Developer Intern</strong></td>
-<td><strong>Touches Computer, Surat, Gujarat</strong></td>
-<td>Dec 2023 – Feb 2024</td>
-</tr>
-<tr>
-<td colspan="3">
-&nbsp;&nbsp;▶ Delivered 10+ production-ready responsive pages, improving session engagement by 20%<br/>
-&nbsp;&nbsp;▶ Optimised MySQL queries across 3 internal tools, cutting retrieval latency by 25%<br/>
-&nbsp;&nbsp;▶ Diagnosed and resolved 15+ cross-browser bugs across Chrome, Firefox, and Safari
-</td>
-</tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<!-- 5. SUVYA WEB -->
-<tr>
-<td><strong>⚙️ Software Developer Intern</strong></td>
-<td><strong>Suvya Web, Surat, Gujarat</strong></td>
-<td>Sep 2023 – Nov 2023</td>
-</tr>
-<tr>
-<td colspan="3">
-&nbsp;&nbsp;▶ Implemented MVC-structured modules with 3 backend engineers across 2 client-facing releases<br/>
-&nbsp;&nbsp;▶ Reduced QA-reported defects by 15% through systematic unit testing and structured debugging<br/>
-&nbsp;&nbsp;▶ Refactored legacy code paths, improving system response time by ~10%
-</td>
-</tr>
-
+  <tr>
+    <th width="50%">🚀 Backend & Microservices</th>
+    <th width="50%">🗄️ Databases & Cloud Infrastructure</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/NestJS_11-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Microservices-4F46E5?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Spatie_RBAC-10B981?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Laravel_Sanctum_/_JWT-F59E0B?style=for-the-badge" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL_(Multi--Tenant)-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_S3_Presigned-232F3E?style=for-the-badge&logo=amazons3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe_Gateways-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web--Push_Notifications-0284C7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Schema_Indexing-0D9488?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <th>⚙️ Observability, QA & AI</th>
+    <th>🎨 Frontend & UI Integration</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/OpenTelemetry_(OTLP)-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jest_&_Supertest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LLM_Output_Evaluation-10B981?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/SheetJS_Excel-107C41?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/DomPDF_Invoicing-DC2626?style=for-the-badge" />
+    </td>
+  </tr>
 </table>
-<hr/>
 
-<!-- ===================== SKILLS ===================== -->
-<h2 align="left">⚡ Core Skills</h2>
+---
+
+## 🚀 04. Featured Systems & Projects
+
+### 📊 [Tuition Fee & Attendance Management System](https://github.com/AnikeshTiwari/tuition-fee-system)
+*`JavaScript` • `Supabase` • `PostgreSQL` • `SheetJS` • `CSS3` • `RBAC`*
+- Built a cloud-synchronized operations portal with real-time Supabase PostgreSQL synchronization and offline `localStorage` failover.
+- Implemented **4-tier RBAC (Superadmin, Admin, Teacher, Viewer)** with two-way approval workflows for financial and attendance correction auditing.
+- Engineered interactive **1–31 day monthly matrix attendance registers** with sticky multi-column freezing and automated SheetJS Excel export.
+
+### 🦷 **Dental Laboratory Multi-Tenant CRM**
+*`Laravel 12` • `PHP 8.2` • `MySQL` • `Inertia.js` • `REST APIs` • `DomPDF`*
+- Architected a multi-tenant CRM for dental laboratories to manage customer orders, production workflows, challans, and invoices.
+- Built role-based modules for order tracking, billing, and customer management, consolidating 4 operational pipelines into a unified platform.
+- Automated invoice and challan PDF/barcode generation with optimized database operations, cutting document turnaround time by **~40%**.
+
+### ✈️ [Airport Management & Flight Booking System](https://github.com/AnikeshTiwari)
+*`PHP` • `MySQL` • `DBMS` • `XAMPP` • `Relational Schemas`*
+- Full-stack flight reservation system with JWT-style session authentication and 3-tier role-based access (admin, staff, passenger).
+- Engineered a normalised MySQL schema for 1,000+ flight records, reducing redundant query joins by **30%** and retrieval latency by **20%**.
+
+---
+
+## 📈 05. Telemetry & GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnikeshTiwari&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/AnikeshTiwari/AnikeshTiwari/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</div>
+
+---
+
+## 📫 06. Initiate Contact & Collaboration
+
+<div align="center">
 
 <p>
-✔️ <strong>Backend Development</strong> (NestJS · TypeScript · Node.js · Laravel · PHP · RESTful API Architecture · Microservices)<br/>
-✔️ <strong>Databases & Cloud</strong> (PostgreSQL · MySQL · Supabase · Multi-Tenancy · AWS S3 · Indexing & Optimization)<br/>
-✔️ <strong>API & Integrations</strong> (Stripe Payments · Web-Push · Resend Email · Swagger/OpenAPI · JWT & Sanctum Auth)<br/>
-✔️ <strong>Architecture & Security</strong> (Role-Based Access Control [RBAC] · OpenTelemetry Observability · Rate Limiting)<br/>
-✔️ <strong>AI / ML</strong> (Prompt Engineering · LLM Output Evaluation · NLP Pipeline Testing)<br/>
-✔️ <strong>Frontend & UI</strong> (JavaScript · Inertia.js · Blade · HTML5 · CSS3 · Bootstrap · Responsive UI)<br/>
-✔️ <strong>DevOps & Testing</strong> (Git · GitHub · Postman · Jest · Supertest · VS Code)
+  <strong>Available for Backend Engineering Roles, Cloud Architecture Consulting & Contracts</strong><br/>
+  Surat, Gujarat, India • Open to Worldwide Remote Opportunities
 </p>
 
-<hr/>
+<p>
+  <a href="https://anikeshtiwari.github.io/Anikesh-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-Anikesh.dev-2563eb?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/anikesh-tiwari-35a592217/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sparkle.anikesh01@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Direct_Email-sparkle.anikesh01@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<!-- ===================== TECH STACK ===================== -->
-<h2 align="left">🛠️ Tech Stack & Tools</h2>
+<sub>© 2026 Anikesh Tiwari. Built with standard web standards & clean engineering principles.</sub>
 
-<h4 align="left">Backend & Frameworks</h4>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/>
 </div>
-
-<p align="left">
-🔹 RESTful API Architecture &nbsp;&nbsp; 🔹 Microservices &nbsp;&nbsp; 🔹 OpenTelemetry &nbsp;&nbsp; 🔹 Multi-Tenant Architecture &nbsp;&nbsp; 🔹 RBAC
-</p>
-
-<br/>
-
-<h4 align="left">Databases & Cloud</h4>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-</div>
-
-<br/>
-
-<h4 align="left">Frontend</h4>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-</div>
-
-<br/>
-
-<h4 align="left">AI / ML</h4>
-<p align="left">
-🔹 Prompt Engineering &nbsp;&nbsp; 🔹 LLM Output Evaluation &nbsp;&nbsp; 🔹 NLP Pipeline Testing &nbsp;&nbsp; 🔹 A/B Prompt Testing
-</p>
-
-<br/>
-
-<h4 align="left">Tools & Workflow</h4>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-</div>
-
-<hr/>
-
-<!-- ===================== PROJECTS ===================== -->
-<h2 align="left">🚀 Featured Projects</h2>
-
-<ul>
-
-<li>
-<strong>📊 Tuition Fee & Attendance Management System</strong> &nbsp;|&nbsp; <em>JavaScript · Supabase · PostgreSQL · SheetJS · Vanilla CSS</em><br/>
-🔹 Production-grade coaching management portal with real-time Supabase cloud sync & offline resilience<br/>
-🔹 Built 4-tier Role-Based Access Control (Superadmin, Admin, Teacher, Viewer) with multi-level financial and attendance auditing<br/>
-🔹 Implemented 1–31 day interactive attendance matrix registers with sticky multi-column freezing and Excel export<br/>
-</li>
-
-<br/>
-
-<li>
-<strong>🦷 Dental Laboratory Multi-Tenant CRM</strong> &nbsp;|&nbsp; <em>Laravel 12 · PHP 8.2 · MySQL · Inertia.js · REST APIs</em><br/>
-🔹 Developed an enterprise CRM for dental laboratories to manage customer orders, production workflows, and invoices<br/>
-🔹 Built role-based modules for multi-tenant order tracking, billing, and customer management<br/>
-🔹 Automated PDF invoice and barcode/challan generation with optimized database operations, cutting turnaround time by 40%
-</li>
-
-<br/>
-
-<li>
-<strong>✈️ Airport Management System</strong> &nbsp;|&nbsp; <em>PHP · MySQL · DBMS · XAMPP</em><br/>
-🔹 Full-stack flight booking platform with 3-tier role-based access (admin, staff, passenger)<br/>
-🔹 Engineered normalised MySQL schema for 1,000+ records — cut redundant joins by 30%<br/>
-🔹 Reduced average record-retrieval time by 20% via indexed foreign keys<br/>
-</li>
-
-</ul>
-
-<hr/>
-
-<!-- ===================== EDUCATION ===================== -->
-<h2 align="left">🎓 Education</h2>
-
-<p align="left">
-📘 <strong>B.E. – Information Science and Engineering</strong><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Brindavan Group of Institutions, VTU, Bengaluru &nbsp;|&nbsp; 2023 – 2026 &nbsp;|&nbsp; CGPA: 7.50<br/><br/>
-📗 <strong>Diploma – Information Technology</strong><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Bhagwan Mahavir University, Surat, Gujarat &nbsp;|&nbsp; 2021 – 2023 &nbsp;|&nbsp; CGPA: 6.91
-</p>
-
-<hr/>
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-<h2 align="left">🏅 Certifications</h2>
-
-<p align="left">
-🎖️ Front-End Software Engineering Job Simulation — Forage<br/>
-🎖️ Developer Job Simulation — Forage<br/>
-🎖️ Solution Architecture Job Simulation — Forage
-</p>
-
-<hr/>
-
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-<h2 align="left">📚 Currently Exploring</h2>
-
-<ul>
-<li>Advanced LLM prompt strategies & AI agent architectures</li>
-<li>System Design & distributed backend architectures</li>
-<li>High-concurrency microservices with NestJS & Go</li>
-</ul>
-
-<hr/>
-
-<!-- ===================== CONTACT ===================== -->
-<h2 align="left">📫 Contact Me</h2>
-
-<div align="left">
-<a href="https://www.linkedin.com/in/anikesh-tiwari-35a592217" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-</a>
-<img width="16"/>
-<a href="mailto:sparkle.anikesh01@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
-</a>
-<img width="16"/>
-<a href="https://anikeshtiwari.github.io/Anikesh-Portfolio/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40" alt="Portfolio"/>
-</a>
-</div>
-
-<hr/>
-
-<!-- ===================== COLLAB ===================== -->
-<h2 align="left">🤝 Open to Collaborate</h2>
-
-<p align="left">
-🤝 Open to backend, full-stack, and AI/ML project collaborations<br/>
-📬 Reach out for freelance work, contract engineering, or full-time opportunities<br/>
-💡 Especially interested in projects at the intersection of scalable backend architectures and AI tooling
-</p>
